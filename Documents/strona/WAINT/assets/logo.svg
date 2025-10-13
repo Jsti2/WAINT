@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="228.32898"
+   height="65.574471"
+   viewBox="0 0 60.412041 17.349912"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="..\Documents\strona\WAINT\Documents\strona\WAINT\assets\logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="rysunek.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="14.339169"
+     inkscape:cx="15.237982"
+     inkscape:cy="16.772241"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="60.412041"
+       height="17.349913"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="121.11261"
+       y="43.395397"
+       width="127.81918"
+       height="43.789902"
+       id="rect6" />
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient10"
+       x1="1.3960702"
+       y1="1.0829329"
+       x2="4.2086487"
+       y2="3.1043038"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.2499527,0,0,3.4825314,-3.2202397,7.8834679)" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.4064949,-9.875493)">
+    <rect
+       style="display:inline;fill:#1a1a1a;stroke-width:1.01789"
+       id="rect1"
+       width="26.740957"
+       height="13.815673"
+       x="1.4064949"
+       y="9.9397535" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.01789"
+       id="rect2"
+       width="24.702059"
+       height="12.530493"
+       x="2.4259455"
+       y="10.582344" />
+    <rect
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:1.01789"
+       id="rect4"
+       width="4.7835732"
+       height="1.7349912"
+       x="12.071509"
+       y="23.691168" />
+    <rect
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:1.01789"
+       id="rect5"
+       width="12.2334"
+       height="2.0562856"
+       x="8.4642267"
+       y="25.169119" />
+    <path
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke-width:1.01789"
+       d="M 18.658727,9.8754935 Z"
+       id="path6" />
+    <rect
+       style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke-width:1.01789"
+       id="rect3"
+       width="24.309959"
+       height="12.209196"
+       x="2.6612034"
+       y="10.710861" />
+    <rect
+       style="display:inline;fill:url(#linearGradient10);fill-opacity:1;stroke-width:1.01789"
+       id="rect8"
+       width="24.702059"
+       height="12.530493"
+       x="2.4259455"
+       y="10.582344" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.252549,-0.20875817)"
+       id="text1"
+       style="font-size:32px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);fill:#000000;stroke-width:1.00157"><tspan
+         x="121.11328"
+         y="72.589101"
+         id="tspan2"><tspan
+           style="font-family:'Microsoft Himalaya';-inkscape-font-specification:'Microsoft Himalaya'"
+           id="tspan1">KompService</tspan></tspan></text>
+  </g>
+</svg>
